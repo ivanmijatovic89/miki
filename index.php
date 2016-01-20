@@ -4,7 +4,7 @@ phpinfo() ?>
 
 <html>
 <head>
-	<title></title>
+	<title>Mijatovic Ivan</title>
 </head>
 <body>
 
