@@ -8,7 +8,7 @@ phpinfo() ?>
 	<title>Mijatovic Milan</title>
 
 </head>
-<body class="miajt">
+<body class="miajt 2">
 
 </body>
 </html>
