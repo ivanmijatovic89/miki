@@ -4,7 +4,7 @@ phpinfo() ?>
 
 <html>
 <head>
-	<title></title>
+	<title>Mijatovic Milan</title>
 </head>
 <body>
 
